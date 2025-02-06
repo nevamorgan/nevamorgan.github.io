@@ -2,3 +2,6 @@
 title: "Interests"
 ---
 
+\~\~\~\~
+
+![A social experiment done for IU173B, Thinking Towards a Thriving Planet class. Bringing inspiration to all even professors on the third floor of Eddy at CSU.](inspiration-in-eddy.JPG){fig-align="center"}
