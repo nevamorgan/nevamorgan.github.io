@@ -1,0 +1,22 @@
+---
+title: Resume
+
+date: Updated February 5th, 2025
+---
+
+\~\~\~\~
+
+---
+title: "Resume"
+author: "Neva Morgan"
+---
+
+\~\~\~\~
+
+---
+image: resume.png
+about:
+  template: marquee
+  image-shape: rectangle
+  image-width: 30em
+---

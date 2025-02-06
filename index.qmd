@@ -1,5 +1,20 @@
 ---
-title: "nevamorgan.github.io"
+title: "Neva Morgan's Website"
+image: IMG_5583.JPG
+about:
+  template: marquee
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: LinkedIn
+      href: //https://www.linkedin.com/in/neva-morgan-089483273/
+    - text: Email
+      href: //neva.morgan@colostate.edu
+    - text: Resume
+      href: Resume.qmd
+    - text: Interests
+      href: Interests.qmd
+    - text: Leadership Experience - Water World
 ---
 
 This is a Quarto website.

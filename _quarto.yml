@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "nevamorgan.github.io"
+  title: "HOME"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Neva Morgan's Website
       - about.qmd
+      - href: Resume.qmd
+      - href: Interests.qmd
 
 format:
   html:
@@ -19,4 +21,6 @@ format:
     toc: true
 
 editor: visual
+
+
 
